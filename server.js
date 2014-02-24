@@ -7,7 +7,7 @@ var app = express();
 var public_folder = '';
 
 // Default folder is the public sub-folder.
-app.use(express.static(__dirname + '/' + public_folder);
+app.use(express.static(__dirname + '/' + public_folder));
 
 app.listen(3333);
 
