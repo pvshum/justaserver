@@ -1,0 +1,21 @@
+{
+  "name": "justaserver",
+  "version": "0.0.1",
+  "description": "Just a simple express HTTP server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pvshum/justaserver.git"
+  },
+  "author": "Pavel Shum <pv.shum@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pvshum/justaserver/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.8"
+  }
+}

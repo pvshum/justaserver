@@ -1,0 +1,6 @@
+# Editor files
+.idea
+*.iml
+
+# Dependencies
+node_modules
